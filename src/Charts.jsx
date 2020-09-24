@@ -1,5 +1,5 @@
-import React from "react";
-import { BarChart, BarChartOther } from "./components/charts";
+import React from 'react';
+import { BarChart, BarChartOther } from './components/charts';
 
 const Charts = () => (
   <div className="charts">

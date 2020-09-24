@@ -7,7 +7,7 @@ $black: #050505;
   display: flex;
 }
 .content {
-  width: 80%;
+  width: 70%;
   border-left: 1px;
   height: 100vh;
 
@@ -16,7 +16,7 @@ $black: #050505;
   }
 }
 .sidebar {
-  width: 20%;
+  width: 30%;
   padding: 10px;
 }
 
@@ -137,12 +137,13 @@ $black: #050505;
     background-color: $yellow;
   }
   .ant-slider-dot {
+    border: 0;
     top: -9px;
-    width: 0;
+    width: 1px;
     height: 20px;
     border-radius: 0 !important;
-    border: 0.5px solid $black !important;
-    &:nth-child(n + 10) {
+    background: $black;
+    &:nth-child(n + 12) {
       top: -4px;
       height: 12px;
     }
