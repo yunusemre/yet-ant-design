@@ -2,7 +2,6 @@
   "name": "application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yunusemre.github.io/ant-design",
   "dependencies": {
     "@ant-design/charts": "^0.9.13",
     "@ant-design/icons": "4.2.2",
