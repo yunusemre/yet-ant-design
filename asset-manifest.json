@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ant-design/static/css/main.9e02e47a.chunk.css",
+    "main.js": "/ant-design/static/js/main.7c1f9db7.chunk.js",
+    "main.js.map": "/ant-design/static/js/main.7c1f9db7.chunk.js.map",
+    "runtime-main.js": "/ant-design/static/js/runtime-main.7c977740.js",
+    "runtime-main.js.map": "/ant-design/static/js/runtime-main.7c977740.js.map",
+    "static/css/2.99a5358a.chunk.css": "/ant-design/static/css/2.99a5358a.chunk.css",
+    "static/js/2.510b3fd6.chunk.js": "/ant-design/static/js/2.510b3fd6.chunk.js",
+    "static/js/2.510b3fd6.chunk.js.map": "/ant-design/static/js/2.510b3fd6.chunk.js.map",
+    "index.html": "/ant-design/index.html",
+    "precache-manifest.a4a1bf73baa4cd4d5c059c0ce249d931.js": "/ant-design/precache-manifest.a4a1bf73baa4cd4d5c059c0ce249d931.js",
+    "service-worker.js": "/ant-design/service-worker.js",
+    "static/css/2.99a5358a.chunk.css.map": "/ant-design/static/css/2.99a5358a.chunk.css.map",
+    "static/css/main.9e02e47a.chunk.css.map": "/ant-design/static/css/main.9e02e47a.chunk.css.map",
+    "static/js/2.510b3fd6.chunk.js.LICENSE.txt": "/ant-design/static/js/2.510b3fd6.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/ant-design/static/media/arrow.b5c11bc4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c977740.js",
+    "static/css/2.99a5358a.chunk.css",
+    "static/js/2.510b3fd6.chunk.js",
+    "static/css/main.9e02e47a.chunk.css",
+    "static/js/main.7c1f9db7.chunk.js"
+  ]
+}
